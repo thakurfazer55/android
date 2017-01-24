@@ -3,7 +3,7 @@
 
   <!-- AOSGP additions -->
   <project path="packages/apps/NexusLauncher" name="aosgp/android_packages_apps_NexusLauncher-prebuilt" remote="github" revision="master" />
-  <project path="packages/apps/WallpaperPicker" name="aosgp/android_packages_apps_WallPaperPicker-prebuilt" remote="github" revision="master" />
+  <!--<project path="packages/apps/WallpaperPicker" name="aosgp/android_packages_apps_WallPaperPicker-prebuilt" remote="github" revision="master" />-->
   <project path="packages/apps/Settings" name="aosgp/android_packages_apps_Settings" remote="github" revision="cm-14.1" />
   <project path="packages/apps/SetupWizard" name="aosgp/android_packages_apps_SetupWizard" remote="github" revision="cm-14.1" />
   <project path="vendor/cm" name="aosgp/android_vendor_aosgp" remote="github" revision="cm-14.1" />
