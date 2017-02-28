@@ -510,5 +510,6 @@
 
   <include name="snippets/aosgp.xml" />
   <include name="snippets/cm.xml" />
+  <include name="snippets/device.xml" />
 
 </manifest>
