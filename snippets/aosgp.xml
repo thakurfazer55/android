@@ -9,4 +9,5 @@
   <project path="vendor/cm" name="aosgp/android_vendor_aosgp" remote="github" revision="cm-14.1" />
   <project path="packages/apps/AOSGPOTA" name="aosgp/packages_apps_AOSGPOTA" remote="github" revision="nougat" />
   <project path="packages/apps/masquerade" name="TeamSubstratum/masquerade" remote="github" revision="n" />
+  <project path="supported" name="aosgp/Supported_devices" remote="github" revision="nougat" />
 </manifest>
