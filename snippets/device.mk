@@ -3,6 +3,13 @@
 
   <!-- AOSGP devices -->
   
+  <!-- Bq -->
+  <project path="device/bq/paella" name="aquaris-dev/android_device_bq_paella" remote="github" revision="cm-14.1" />
+  <project path="device/bq/piccolo" name="aquaris-dev/android_device_bq_piccolo" remote="github" revision="cm-14.1" />
+  <project path="device/bq/msm8916-common" name="aquaris-dev/android_device_bq_msm8916-common" remote="github" revision="cm-14.1" />
+  <project path="kernel/bq/msm8939" name="aquaris-dev/android_kernel_bq_msm8939" remote="github" revision="cm-14.1" />
+  <project path="vendor/bq" name="aquaris-dev/proprietary_vendor_bq" remote="github" revision="cm-14.1" />
+  
   <!-- Motorola -->
   <project path="device/motorola/athene" name="LineageOS/android_device_motorola_athene" remote="github" revision="cm-14.1" />
   <project path="kernel/motorola/msm8952" name="athene-caf/platform_kernel_motorola_msm8952" remote="github" revision="n-mr1" />
