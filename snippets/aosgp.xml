@@ -10,4 +10,5 @@
   <project path="packages/apps/AOSGPOTA" name="aosgp/packages_apps_AOSGPOTA" remote="github" revision="nougat" />
   <project path="packages/apps/masquerade" name="substratum/masquerade" remote="github" revision="n" />
   <project path="supported" name="aosgp/Supported_devices" remote="github" revision="nougat" />
+  <project path="frameworks/base" name="aosgp/android_frameworks_base" revision="cm-14.1" />
 </manifest>
