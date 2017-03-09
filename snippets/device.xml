@@ -21,7 +21,7 @@
   <project path="device/motorola/osprey" name="LineageOS/android_device_motorola_osprey" remote="github" revision="cm-14.1" />
   <project path="device/motorola/msm8916-common" name="LineageOS/android_device_motorola_msm8916-common" remote="github" revision="cm-14.1" />
   <project path="kernel/motorola/msm8916" name="LineageOS/android_kernel_motorola_msm8916" remote="github" revision="cm-14.1" />
-  <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="cm-14.1" />
+  <project path="vendor/motorola" name="AOSGP-devices/proprietary_vendor_motorola" remote="github" revision="cm-14.1" />
   
   <!-- LG -->
   <project path="device/lge/d855" name="LineageOS/android_device_lge_d855" remote="github" revision="cm-14.1" />
