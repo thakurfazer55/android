@@ -16,6 +16,12 @@
   <remote  name="aosgp"
             fetch="git://github.com/AOSGP"
             revision="master" />
+  
+  <remote  name="crdroid"
+           fetch=".."
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/7.1" />
 
   <default revision="refs/heads/cm-14.1"
            remote="github"
