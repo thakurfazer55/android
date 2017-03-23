@@ -10,5 +10,17 @@
   <project path="packages/apps/AOSGPOTA" name="aosgp/packages_apps_AOSGPOTA" remote="github" revision="nougat" />
   <project path="packages/apps/masquerade" name="substratum/masquerade" remote="github" revision="n" />
   <project path="supported" name="aosgp/Supported_devices" remote="github" revision="nougat" />
-  <project path="frameworks/base" name="aosgp/android_frameworks_base" revision="cm-14.1" />
+  <project path="frameworks/base" name="aosgp/android_frameworks_base" revision="7.1" />
+  <project path="packages/apps/crDroidSettings" name="aosgp/android_packages_apps_AOSGPSettings" revision="7.1" />
+  <project path="external/DUtils" name="crdroidandroid/android_external_DUtils" remote="github" />
+  <project path="frameworks/opt/cards" name="crdroidandroid/android_frameworks_opt_cards" remote="github" />
+  <project path="frameworks/native" name="crdroidandroid/android_frameworks_native" remote="github" />
+  <project path="packages/services/OmniJaws" name="crdroidandroid/android_packages_services_OmniJaws" remote="github" />
+  <project path="packages/apps/OmniStyle" name="crdroidandroid/android_packages_apps_OmniStyle" remote="github" />
+  <project path="packages/apps/OmniSwitch" name="crdroidandroid/android_packages_apps_OmniSwitch" remote="github" />
+  <project path="packages/apps/ThemeInterfacer" name="aosgp/android_packages_apps_ThemeInterfacer" remote="github" revision="cm-14.1" />
+  <project path="packages/apps/DUI" name="crdroidandroid/android_packages_apps_DUI" remote="github" />
+  <project path="system/core" name="aosgp/android_system_core" remote="github" revision="7.1" />
+  <project path="system/sepolicy" name="aosgp/android_system_sepolicy" remote="github" revision="7.1" />
+
 </manifest>
