@@ -47,6 +47,13 @@
   <project path="vendor/xiaomi" name="AOSGP-devices/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
   <project path="vendor/xiaomi/kenzo" name="AOSGP-devices/proprietary_vendor_xiaomi_kenzo" remote="github" revision="n2-caf" />
   
+  <!-- Samsung -->
+  <project path="device/samsung/trltexx" name="Jef00/android_device_samsung_trltexx" remote="github" revision="cm-14.1" />
+  <project path="device/samsung/trlte-common" name="Jef00/android_device_samsung_trlte-common" remote="github" revision="cm-14.1" />
+  <project path="kernel/samsung/trlte" name="jef00/android_kernel_samsung_trlte" remote="github" revision="cm-14.1" />
+  <project path="vendor/samsung/" name="jef00/proprietary_vendor_samsung" remote="github" revision="cm-14.1" />
+
+  
   <!-- Extras -->
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
   <project path="external/bson" name="LineageOS/android_external_bson" remote="github" revision="cm-14.1" />
