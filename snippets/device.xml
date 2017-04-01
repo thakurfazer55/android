@@ -52,6 +52,7 @@
   <project path="device/samsung/trltexx" name="Jef00/android_device_samsung_trltexx" remote="github" revision="cm-14.1" />
   <project path="device/samsung/trlte-common" name="Jef00/android_device_samsung_trlte-common" remote="github" revision="cm-14.1" />
   <project path="kernel/samsung/trlte" name="jef00/android_kernel_samsung_trlte" remote="github" revision="cm-14.1" />
+  <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" remote="github" revision="cm-14.1" />
   <project path="vendor/samsung/" name="jef00/proprietary_vendor_samsung" remote="github" revision="cm-14.1" />
 
   
