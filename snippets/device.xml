@@ -10,6 +10,13 @@
   <project path="kernel/bq/msm8939" name="aquaris-dev/android_kernel_bq_msm8939" remote="github" revision="cm-14.1" />
   <project path="vendor/bq" name="aquaris-dev/proprietary_vendor_bq" remote="github" revision="cm-14.1" />
   
+  <!-- Google -->
+  <project path="device/google/seed" name="LineageOS/android_device_google_seed" remote="github" revision="cm-14.1" />
+  <project path="kernel/google/seed" name="HelliosDarkline/android_kernel_google_seed" remote="github" revision="cm-14.1" />
+  <project path="device/google/shamrock" name="OneDeveloperOrganization/android_device_google_shamrock" remote="github" revision="cm-14.1" />
+  <project path="kernel/google/shamrock" name="OneDeveloperOrganization/android_kernel_google_shamrock" remote="github" revision="cm-14.1" />
+  <project path="vendor/google" name="TheMuppets/proprietary_vendor_google" remote="github" revision="cm-14.1" />
+
   <!-- Motorola -->
   <project path="device/motorola/athene" name="LineageOS/android_device_motorola_athene" remote="github" revision="cm-14.1" />
   <project path="kernel/motorola/msm8952" name="athene-caf/platform_kernel_motorola_msm8952" remote="github" revision="n-mr1" />
@@ -24,6 +31,11 @@
   <project path="kernel/motorola/msm8916" name="LineageOS/android_kernel_motorola_msm8916" remote="github" revision="cm-14.1" />
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="cm-14.1" />
   
+  <!-- Lenovo -->
+  <project path="device/lenovo/p2a42" name="Wzedlare/android_device_lenovo_p2a42" remote="github" revision="cm-14.1" />
+  <project path="kernel/lenovo/msm8953" name="Wzedlare/android_kernel_lenovo_msm8953" remote="github" revision="cm-14.1" />
+  <project path="vendor/lenovo" name="Wzedlare/android_vendor_lenovo_p2a42" remote="github" revision="cm-14.1" />
+
   <!-- LG -->
   <project path="device/lge/d855" name="LineageOS/android_device_lge_d855" remote="github" revision="cm-14.1" />
   <project path="device/lge/g3-common" name="LineageOS/android_device_lge_g3-common" remote="github" revision="cm-14.1" />
