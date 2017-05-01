@@ -16,7 +16,6 @@
   <project path="device/google/msm8916-common" name="LineageOS/android_device_cyanogen_msm8916-common" remote="github" revision="cm-14.1" />
   <project path="device/google/shamrock" name="OneDeveloperOrganization/android_device_google_shamrock" remote="github" revision="cm-14.1" />
   <project path="kernel/google/shamrock" name="OneDeveloperOrganization/android_kernel_google_shamrock" remote="github" revision="cm-14.1" />
-  <project path="kernel/google/seed" name="HelliosDarkline/android_kernel_google_seed" remote="github" revision="cm-14.1" />
   <project path="vendor/google" name="TheMuppets/proprietary_vendor_google" remote="github" revision="cm-14.1" />
 
   <!-- Motorola -->
