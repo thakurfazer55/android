@@ -16,7 +16,13 @@
   <project path="device/google/msm8916-common" name="LineageOS/android_device_cyanogen_msm8916-common" remote="github" revision="cm-14.1" />
   <project path="device/google/shamrock" name="OneDeveloperOrganization/android_device_google_shamrock" remote="github" revision="cm-14.1" />
   <project path="kernel/google/shamrock" name="OneDeveloperOrganization/android_kernel_google_shamrock" remote="github" revision="cm-14.1" />
-  <project path="vendor/google" name="TheMuppets/proprietary_vendor_google" remote="github" revision="cm-14.1" />
+  <project path="vendor/google" name="OneDeveloperOrganization/proprietary_vendor_google" remote="github" revision="cm-14.1" />
+
+  <!-- Huawei -->
+  <project path="device/huawei/kiwi" name="LineageOS/android_device_huawei_kiwi" remote="github" revision="cm-14.1" />
+  <project path="kernel/huawei/kiwi" name="LineageOS/android_kernel_huawei_kiwi" remote="github" revision="cm-14.1" />
+  <project path="vendor/huawei" name="TheMuppets/proprietary_vendor_huawei" remote="github" revision="cm-14.1" />
+  <project path="packages/apps/FlipFlap" name="LineageOS/android_packages_apps_FlipFlap" remote="github" revision="cm-14.1" />
 
   <!-- Motorola -->
   <project path="device/motorola/athene" name="LineageOS/android_device_motorola_athene" remote="github" revision="cm-14.1" />
