@@ -3,7 +3,7 @@
 
   <!-- AOSGP additions -->
   <project path="packages/apps/PixelLauncher" name="aosgp/android_packages_apps_PixelLauncher-prebuilt" remote="github" revision="master" />
-  <project path="packages/apps/AOSGPWalls" name="AOSGP/android_packages_apps_AOSGPWalls" remote="github" revision="master" />
+  <project path="packages/apps/AOSGPWalls" name="AOSGP/android_packages_apps_AOSGPWalls" remote="github" revision="nougat" />
   <project path="packages/apps/FlickLauncher" name="michelelacorte/FlickLauncher" remote="github" revision="master" />
   <!--<project path="packages/apps/WallpaperPicker" name="aosgp/android_packages_apps_WallPaperPicker-prebuilt" remote="github" revision="master" />-->
   <project path="packages/apps/Settings" name="aosgp/android_packages_apps_Settings" remote="github" revision="cm-14.1-n" />
