@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- AOSGP additions -->
-  <project path="packages/apps/NexusLauncher" name="aosgp/android_packages_apps_NexusLauncher-prebuilt" remote="github" revision="master" />
+  <project path="packages/apps/PixelLauncher" name="aosgp/android_packages_apps_PixelLauncher-prebuilt" remote="github" revision="master" />
   <project path="packages/apps/AOSGPWalls" name="AOSGP/android_packages_apps_AOSGPWalls" remote="github" revision="master" />
   <project path="packages/apps/FlickLauncher" name="michelelacorte/FlickLauncher" remote="github" revision="master" />
   <!--<project path="packages/apps/WallpaperPicker" name="aosgp/android_packages_apps_WallPaperPicker-prebuilt" remote="github" revision="master" />-->
