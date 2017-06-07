@@ -55,11 +55,15 @@
   <project path="device/xiaomi/gemini" name="LineageOS/android_device_xiaomi_gemini" remote="github" revision="cm-14.1" />
   <project path="device/xiaomi/kenzo" name="LineageOS/android_device_xiaomi_kenzo" remote="github" revision="cm-14.1" />
   <project path="device/xiaomi/natrium" name="LineageOS/android_device_xiaomi_natrium" remote="github" revision="cm-14.1" />
+  <project path="device/xiaomi/mido" name="MakeMeCool/android_device_xiaomi_mido" remote="github" revision="cm-14.1" />
   <project path="device/xiaomi/msm8996-common" name="LineageOS/android_device_xiaomi_msm8996-common" remote="github" revision="cm-14.1" />
   <project path="device/xiaomi/msm8956-common" name="LineageOS/android_device_xiaomi_msm8956-common" remote="github" revision="cm-14.1" />
+  <project path="kernel/xiaomi/msm8953" name="TheScarastic/android_kernel_xiaomi_msm8953" remote="github" revision="cm-14.1" />
   <project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="github" revision="cm-14.1" />
   <project path="kernel/xiaomi/msm8956" name="LineageOS/android_kernel_xiaomi_msm8956" remote="github" revision="cm-14.1" />
   <project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
+  <project path="vendor/xiaomi/mido" name="AOSGP-devices/proprietary_vendor_xiaomi-mido" remote="github" revision="cm-14.1" />
+
   
   <!-- Samsung -->
   <project path="device/samsung/trltexx" name="Jef00/android_device_samsung_trltexx" remote="github" revision="cm-14.1" />
@@ -71,9 +75,15 @@
   <project path="vendor/samsung" name="jef00/proprietary_vendor_samsung" remote="github" revision="cm-14.1" />
   
   <!-- Yu -->
-  <project path="device/yu/tomato" name="LineageOS/android_device_yu_tomato" remote="github" revision="cm-14.1" />
-  <project path="kernel/cyanogen/msm8916" name="LineageOS/android_kernel_cyanogen_msm8916" remote="github" revision="cm-14.1" />
+  <project path="device/yu/tomato" name="thakurfazer55/device_tomato" remote="github" revision="aosgp" />
+  <project path="kernel/cyanogen/msm8916" name="Shoaib0597/Velocity_MSM8916" remote="github" revision="N-Tomato-MV" />
   <project path="vendor/yu" name="TheMuppets/proprietary_vendor_yu" remote="github" revision="cm-14.1" />
+  <project path="vendor/yu" name="thakurfazer55/vendor_volte" remote="github" revision="cm-14.1" />
+  
+  <!-- Zuk -->
+  <project path="device/zuk/ham" name="forkking/forkking-device-tree" remote="github" revision="master" />
+  <project path="kernel/cyanogen/msm8974" name="forkking/Radioactive-kernel-HAM-perro" remote="github" revision="cpuquiet" />
+  <project path="vendor/zuk" name="TheMuppets/proprietary_vendor_zuk" remote="github" revision="cm-14.1" />
   
   <!-- Extras -->
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
