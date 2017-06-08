@@ -31,7 +31,7 @@
   <project path="kernel/motorola/msm8916" name="LineageOS/android_kernel_motorola_msm8916" remote="github" revision="cm-14.1" />
   <project path="device/motorola/msm8916-common" name="LineageOS/android_device_motorola_msm8916-common" remote="github" revision="cm-14.1" />
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="cm-14.1" />
-  <project path="vendor/motorola/potter" name="boulzordev/android_vendor_motorola_potter" remote="github" revision="cm-14.1" />
+  <project path="vendor/motorola/potter" name="boulzordev/android_vendor_motorola_potter" remote="github" revision="master" />
   
   <!-- Lenovo -->
   <project path="device/lenovo/p2a42" name="Wzedlare/android_device_lenovo_p2a42" remote="github" revision="cm-14.1" />
