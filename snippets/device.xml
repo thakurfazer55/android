@@ -83,9 +83,9 @@
   <project path="vendor/yu" name="TheMuppets/proprietary_vendor_yu" remote="github" revision="cm-14.1" />
   
   <!-- Zuk -->
-  <project path="device/zuk/ham" name="forkking/forkking-device-tree" remote="github" revision="master" />
-  <project path="kernel/cyanogen/msm8974" name="forkking/Radioactive-kernel-HAM-perro" remote="github" revision="cpuquiet" />
-  <project path="vendor/zuk" name="forkking/proprietary_vendor_zuk_perro" remote="github" revision="nuclear-n" />
+  <project path="device/zuk/ham" name="LineageOS/android_device_zuk_ham" remote="github" revision="cm-14.1" />
+  <project path="kernel/cyanogen/msm8974" name="LineageOS/android_kernel_cyanogen_msm8974" remote="github" revision="cm-14.1" />
+  <project path="vendor/zuk" name="TheMuppets/proprietary_vendor_zuk" remote="github" revision="cm-14.1" />
   
   <!-- Extras -->
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
