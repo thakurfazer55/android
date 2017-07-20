@@ -35,7 +35,7 @@
   
   <!-- Lenovo -->
   <project path="device/lenovo/p2a42" name="Wzedlare/android_device_lenovo_p2a42" remote="github" revision="cm-14.1" />
-  <project path="kernel/lenovo/msm8953" name="Wzedlare/android_kernel_lenovo_msm8953" remote="github" revision="cm-14.1" />
+  <project path="kernel/lenovo/msm8953" name="AICP/kernel_lenovo_msm8953" remote="github" revision="n7.1" />
   <project path="vendor/lenovo/p2a42" name="Wzedlare/android_vendor_lenovo_p2a42" remote="github" revision="cm-14.1" />
 
   <!-- LG -->
