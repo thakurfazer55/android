@@ -2,14 +2,13 @@
 <manifest>
 
   <!-- AOSGP additions -->
-  <project path="packages/apps/PixelLauncher" name="aosgp/android_packages_apps_PixelLauncher-prebuilt" remote="github" revision="master" />
   <project path="packages/apps/AOSGPWalls" name="AOSGP/android_packages_apps_AOSGPWalls" remote="github" revision="nougat" />
   <project path="packages/apps/CMFileManager" name="LineageOS/android_packages_apps_CMFileManager" remote="github" revision="cm-14.1" />
   <project path="packages/apps/FlickLauncher" name="michelelacorte/FlickLauncher" remote="github" revision="master" />
   <!--<project path="packages/apps/WallpaperPicker" name="aosgp/android_packages_apps_WallPaperPicker-prebuilt" remote="github" revision="master" />-->
   <project path="packages/apps/Settings" name="aosgp/android_packages_apps_Settings" remote="github" revision="cm-14.1-n" />
   <project path="packages/apps/SetupWizard" name="aosgp/android_packages_apps_SetupWizard" remote="github" revision="cm-14.1" />
-  <project path="vendor/cm" name="aosgp/android_vendor_aosgp" remote="github" revision="cm-14.1" />
+  <project path="vendor/cm" name="aosgp/android_vendor_aosgp" remote="github" revision="l-7.1" />
   <project path="packages/apps/AOSGPOTA" name="aosgp/packages_apps_AOSGPOTA" remote="github" revision="nougat" />
   <project path="supported" name="aosgp/Supported_devices" remote="github" revision="nougat" />
   <project path="frameworks/base" name="aosgp/android_frameworks_base" revision="7.1" />
