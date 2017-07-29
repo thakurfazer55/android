@@ -85,7 +85,7 @@
   <!-- Zuk -->
   <project path="device/zuk/ham" name="forkking/android_device_zuk_ham-ankurpandeyvns" remote="github" revision="nougat" />
   <project path="kernel/xTREMEsPEED" name="forkking/xTREMEsPEED-ankurpandeyvns" remote="github" revision="nougat" />
-  <project path="device/zuk/z2_plus" name="gamingex/android_device_zuk_z2_plus" remote="github" revision="lineage-n />
+  <project path="device/zuk/z2_plus" name="gamingex/android_device_zuk_z2_plus" remote="github" revision="lineage-n" />
   <project path="kernel/zuk/z2_plus" name="gamingex/android_kernel_zuk_z2_plus" remote="github" revision="staging/noog-caf" />
   <project path="vendor/zuk" name="forkking/proprietary_vendor_zuk-ankurpandeyvns" remote="github" revision="cm-14.1" />
   <project path="vendor/zuk/z2_plus" name="gamingex/proprietary_vendor_zuk_z2_plus" remote="github" revision="cm-14.1" />
