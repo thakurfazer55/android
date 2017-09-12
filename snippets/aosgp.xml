@@ -27,7 +27,7 @@
   <project path="packages/apps/DUI" name="crdroidandroid/android_packages_apps_DUI" remote="crdroid" />
   <project path="system/core" name="LineageOS/android_system_core" remote="github" revision="cm-14.1" />
   <project path="system/sepolicy" name="crdroidandroid/android_system_sepolicy" remote="crdroid" />
-  <project path="packages/services/Telephony" name="crdroidandroid/android_packages_services_Telephony" remote="crdroid" />
+  <project path="packages/services/Telephony" name="AOSGP/android_packages_services_Telephony" remote="crdroid" />
   <project path="packages/apps/CMParts" name="aosgp/android_packages_apps_CMParts" remote="github" revision="cm-14.1" />
 
 </manifest>
